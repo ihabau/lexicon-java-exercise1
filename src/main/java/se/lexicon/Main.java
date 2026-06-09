@@ -1,5 +1,5 @@
 package se.lexicon;
-
+import java.util.Scanner;
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
@@ -25,6 +25,10 @@ public class Main {
         String[] emptyArgs = new String[0]; //create an empty string array
         ProfileCard.main(emptyArgs); // call with main with the empty string array
         ProfileCard.main(new String[]{});   // call main  without assigning an array beforehand
+
+        //find leap year
+
+        LeapYear.findLeapYear();
 
     }
 }
