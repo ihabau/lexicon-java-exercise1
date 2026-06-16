@@ -1,5 +1,5 @@
 ![Lexicon Logo](https://lexicongruppen.se/media/wi5hphtd/lexicon-logo.svg)
-# Workshop – Café Order System
+
 
 ## The Scenario
 - [Objectives](./Exercises-2.md)
