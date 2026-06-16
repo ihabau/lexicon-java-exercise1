@@ -9,11 +9,11 @@
 * [x] Exercise 3 – String Stats
 * [x] Exercise 4 – Initials Generator
 * [x] Exercise 5 – Palindrome Checker
-* [ ] Exercise 6 – Word Counter
-* [ ] Exercise 7 – Circle Calculator
-* [ ] Exercise 8 – Power Table
-* [ ] Exercise 9 – Right Triangle Checker
-* [ ] Exercise 10 – Number Cruncher
+* [x] Exercise 6 – Word Counter
+* [x] Exercise 7 – Circle Calculator
+* [x] Exercise 8 – Power Table
+* [x] Exercise 9 – Right Triangle Checker
+* [x] Exercise 10 – Number Cruncher
 * [ ] Exercise 11 – Dice Statistics
 * [ ] Exercise 12 – Password Generator
 * [ ] Exercise 13 – Receipt Builder

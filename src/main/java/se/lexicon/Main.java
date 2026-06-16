@@ -4,11 +4,16 @@ package se.lexicon;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     static void main() {
-            //WordReversal.WordReversal();
-            //WordReversal.reverseBuilder();
-            //EmailSlicer.EmailSlicer();
-            //StringState.StringState();
-            //InitialCreator.InitialCreator();
-            PalindromeChecker.PalindromeChecker();
+        //WordReversal.WordReversal();
+        //WordReversal.reverseBuilder();
+        //EmailSlicer.EmailSlicer();
+        //StringState.StringState();
+        //InitialCreator.InitialCreator();
+        //PalindromeChecker.PalindromeChecker();
+        //WordCounter.WordCounter();
+        //Calculator.circleArea();
+        //Calculator.PowerCalc();
+        //Calculator.RightAngleCalc();
+        Calculator.NumberCruncher();
     }
 }

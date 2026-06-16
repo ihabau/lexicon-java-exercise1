@@ -1,4 +1,4 @@
-![Lexicon Logo](https://lexicongruppen.se/media/wi5hphtd/lexicon-logo.svg)
+power![Lexicon Logo](https://lexicongruppen.se/media/wi5hphtd/lexicon-logo.svg)
 
 # Java Exercises – Part 2
 
