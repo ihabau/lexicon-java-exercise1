@@ -8,6 +8,7 @@ public class Main {
             //WordReversal.reverseBuilder();
             //EmailSlicer.EmailSlicer();
             //StringState.StringState();
-            InitialCreator.InitialCreator();
+            //InitialCreator.InitialCreator();
+            PalindromeChecker.PalindromeChecker();
     }
 }

@@ -8,7 +8,7 @@
 * [x] Exercise 2 – Email Slicer
 * [x] Exercise 3 – String Stats
 * [x] Exercise 4 – Initials Generator
-* [ ] Exercise 5 – Palindrome Checker
+* [x] Exercise 5 – Palindrome Checker
 * [ ] Exercise 6 – Word Counter
 * [ ] Exercise 7 – Circle Calculator
 * [ ] Exercise 8 – Power Table
