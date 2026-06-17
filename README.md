@@ -14,8 +14,8 @@
 * [x] Exercise 8 – Power Table
 * [x] Exercise 9 – Right Triangle Checker
 * [x] Exercise 10 – Number Cruncher
-* [ ] Exercise 11 – Dice Statistics
-* [ ] Exercise 12 – Password Generator
+* [x] Exercise 11 – Dice Statistics
+* [x] Exercise 12 – Password Generator
 * [ ] Exercise 13 – Receipt Builder
 
 ## Optional Exercises (14–20)

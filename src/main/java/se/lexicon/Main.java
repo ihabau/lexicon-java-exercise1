@@ -14,6 +14,10 @@ public class Main {
         //Calculator.circleArea();
         //Calculator.PowerCalc();
         //Calculator.RightAngleCalc();
-        Calculator.NumberCruncher();
+        //Calculator.NumberCruncher();
+        //DiceRoller.DiceRoller();
+        //PassGen.PassGen();
+        RecieptBuilder.RecieptBuilder2();
+
     }
 }
