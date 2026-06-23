@@ -2,31 +2,31 @@
 
 
 ## The Scenario
-- [Objectives](./Exercises-2.md)
+- [Objectives](./Collections-Exercises.md)
 
-* [x] Exercise 1 – Word Reverser
-* [x] Exercise 2 – Email Slicer
-* [x] Exercise 3 – String Stats
-* [x] Exercise 4 – Initials Generator
-* [x] Exercise 5 – Palindrome Checker
-* [x] Exercise 6 – Word Counter
-* [x] Exercise 7 – Circle Calculator
-* [x] Exercise 8 – Power Table
-* [x] Exercise 9 – Right Triangle Checker
-* [x] Exercise 10 – Number Cruncher
-* [x] Exercise 11 – Dice Statistics
-* [x] Exercise 12 – Password Generator
-* [ ] Exercise 13 – Receipt Builder
+* [ ] Exercise 1 – Shopping List
+* [ ] Exercise 2 – 
+* [ ] Exercise 3 – 
+* [ ] Exercise 4 – 
+* [ ] Exercise 5 – 
+* [ ] Exercise 6 – 
+* [ ] Exercise 7 – 
+* [ ] Exercise 8 – 
+* [ ] Exercise 9 – 
+* [ ] Exercise 10 – 
+* [ ] Exercise 11 – 
+* [ ] Exercise 12 – 
+* [ ] Exercise 13 – 
 
 ## Optional Exercises (14–20)
 
-* [ ] Exercise 14 – Today's Calendar
-* [ ] Exercise 15 – Age Calculator
-* [ ] Exercise 16 – Event Countdown
-* [ ] Exercise 17 – Appointment Planner
-* [ ] Exercise 18 – Date Range Printer
-* [ ] Exercise 19 – Unit Converter
-* [ ] Exercise 20 – Profile Card Builder
+* [ ] Exercise 14 – 
+* [ ] Exercise 15 – 
+* [ ] Exercise 16 – 
+* [ ] Exercise 17 – 
+* [ ] Exercise 18 – 
+* [ ] Exercise 19 – 
+* [ ] Exercise 20 – 
 
 # To-do-list
 
