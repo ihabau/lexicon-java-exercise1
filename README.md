@@ -7,7 +7,7 @@
 * [x] Exercise 1 – Shopping List
 * [x] Exercise 2 – Unique Cities
 * [x] Exercise 3 – Phone Book
-* [ ] Exercise 4 – 
+* [x] Exercise 4 – 
 * [ ] Exercise 5 – 
 * [ ] Exercise 6 – 
 * [ ] Exercise 7 – 
@@ -17,17 +17,17 @@
 * [ ] Exercise 11 – 
 * [ ] Exercise 12 – 
 * [ ] Exercise 13 – 
+* [ ] Exercise 14 –
+* [ ] Exercise 15 –
+* [ ] Exercise 16 –
+* [ ] Exercise 17 –
 
-## Optional Exercises (14–20)
+## Optional Exercises (18-)
 
-* [ ] Exercise 14 – 
-* [ ] Exercise 15 – 
-* [ ] Exercise 16 – 
-* [ ] Exercise 17 – 
-* [ ] Exercise 18 – 
-* [ ] Exercise 19 – 
-* [ ] Exercise 20 – 
+* Nothing 
+*  
+*  
 
 # To-do-list
 
-* [ ] error handling
+* [ ] Nothing
