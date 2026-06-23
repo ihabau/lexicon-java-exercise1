@@ -5,7 +5,7 @@ package se.lexicon;
 public class Main {
     static void main() {
         //ShoppingList.ShoppingList();
-        UniqueCities.UniqueCities();
-
+        //UniqueCities.UniqueCities();
+        PhoneBook.logic();
     }
 }

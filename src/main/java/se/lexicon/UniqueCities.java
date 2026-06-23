@@ -1,6 +1,4 @@
 package se.lexicon;
-
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class UniqueCities {

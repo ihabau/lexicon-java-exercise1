@@ -6,7 +6,7 @@
 
 * [x] Exercise 1 – Shopping List
 * [x] Exercise 2 – Unique Cities
-* [ ] Exercise 3 – Phone Book
+* [x] Exercise 3 – Phone Book
 * [ ] Exercise 4 – 
 * [ ] Exercise 5 – 
 * [ ] Exercise 6 – 
