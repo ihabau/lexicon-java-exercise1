@@ -4,9 +4,9 @@
 ## The Scenario
 - [Objectives](./Collections-Exercises.md)
 
-* [ ] Exercise 1 – Shopping List
-* [ ] Exercise 2 – 
-* [ ] Exercise 3 – 
+* [x] Exercise 1 – Shopping List
+* [x] Exercise 2 – Unique Cities
+* [ ] Exercise 3 – Phone Book
 * [ ] Exercise 4 – 
 * [ ] Exercise 5 – 
 * [ ] Exercise 6 – 
