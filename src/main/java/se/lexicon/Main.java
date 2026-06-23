@@ -8,6 +8,7 @@ public class Main {
         //UniqueCities.UniqueCities();
         //PhoneBook.logic();
         //LargestNumber.LargedstNumber();
-        CountByLetter.CountByLetter();
+        //CountByLetter.CountByLetter();
+        WordFrequency.WordFrequency();
     }
 }

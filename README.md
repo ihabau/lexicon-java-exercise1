@@ -9,7 +9,7 @@
 * [x] Exercise 3 – Phone Book
 * [x] Exercise 4 – Find the Largest
 * [x] Exercise 5 – Count by Letter
-* [ ] Exercise 6 – Word Frequency
+* [x] Exercise 6 – Word Frequency
 * [ ] Exercise 7 – Remove Duplicates, Keep Order
 * [ ] Exercise 8 – Merge Without Duplicates
 * [ ] Exercise 9 – Choose Your Collection: Submission Tracker

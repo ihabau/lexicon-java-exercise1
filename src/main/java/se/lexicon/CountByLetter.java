@@ -1,16 +1,15 @@
 package se.lexicon;
-import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.*;
 
 public class CountByLetter {
 
-    public static ArrayList<String> namesList = new ArrayList<>();
+    public static List<String> namesList = new ArrayList<>();
 
     public static void CountByLetter() {
 
         String[] names = {"Anna", "Bob", "Alice", "Charlie", "Amanda", "David", "Amy", "Brian"};
         // i know that this is redundent for a basic string array but i made it this way
-        // because the exercise wanted a list and i asumed that it ment
+        // because the exercise wanted a list and i asumed that it ment an array list
         namesList.addAll(Arrays.asList(names));
 
         Print.printLeft("Enter a letter.");
