@@ -6,9 +6,11 @@ public class WordFrequency {
 
     public static List<String> fruitsList = new ArrayList<>();
     public static List<String> fruitsFreq = new ArrayList<String>();
-
+    public static Map<String, Integer> mapFruits = new HashMap<>();
 
     public static void WordFrequency() {
+
+        // my way
 
         String[] fruits = { "apple", "banana", "apple", "orange", "banana", "apple", "grape", "orange" };
         fruitsList.addAll(Arrays.stream(fruits).toList());
@@ -35,6 +37,20 @@ public class WordFrequency {
             Print.printLeft( fruitsFreq.get(i) + ": " + count[i] );
 
         };
+    }
+
+    public static void  WordFrequency2() {
+
+        //map and treemap
+        String[] fruits = { "apple", "banana", "apple", "orange", "banana", "apple", "grape", "orange" };
+        for( String fruit : fruits ) {
+            mapFruits.put( fruit, mapFruits.getOrDefault(fruit,0) +1 );
+        }
+        new TreeMap<>(mapFruits).forEach((fruit, count ) -> {
+            Print.printLeft(fruit + ": " + count);
+        });
+
+
     }
 
 

@@ -10,5 +10,6 @@ public class Main {
         //LargestNumber.LargedstNumber();
         //CountByLetter.CountByLetter();
         WordFrequency.WordFrequency();
+        WordFrequency.WordFrequency2();
     }
 }
