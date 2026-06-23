@@ -10,6 +10,7 @@ public class ErrorHandling {
 
             if (msg.equalsIgnoreCase("string")) {
                 return res;
+                // string error handling is not perfect for all methods
             }
 
             if (msg.equalsIgnoreCase("number")) {
